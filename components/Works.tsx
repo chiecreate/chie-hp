@@ -16,42 +16,42 @@ const works = [
     title: "行ってみたい・食べてみたいを伝える",
     description:
       "調理シーンや魅力が伝わるよう、テンポ感とシズル感を意識して制作。",
-    video: "/videos/salon.mov",
+    video: "/videos/ramen.mp4",
   },
   {
     category: "サロンや店舗",
     title: "サービスの魅力を伝える",
     description:
       "サロンの魅力や施術の流れが伝わるよう、ストーリー性を意識して制作。",
-    video: "/videos/ramen.mov",
+    video: "/videos/salon.mp4",
   },
   {
     category: "家族向け施設",
     title: "楽しむ時間を伝える",
     description:
       "楽しさや施設の魅力が自然と伝わるよう、情報を整理して構成・編集。",
-    video: "/videos/family.mov",
+    video: "/videos/family.mp4",
   },
   {
     category: "カフェ",
     title: "居心地のよさを伝える",
     description:
       "空間や料理の魅力がしっかり伝わるよう、テンポや色味も工夫して制作。",
-    video: "/videos/cafe.mov",
+    video: "/videos/cafe.mp4",
   },
   {
     category: "地域PR",
     title: "まちの魅力を伝える",
     description:
       "まちや人の温かさが伝わるような制作。",
-    video: "/videos/local.mov",
+    video: "/videos/local.mp4",
   },
   {
     category: "ストーリーリール",
     title: "伝えたい想い",
     description:
       "伝えたい想いを世界観や人柄とマッチさせる制作。",
-    video: "/videos/story.mov",
+    video: "/videos/story.mp4",
   },
 ];
 
