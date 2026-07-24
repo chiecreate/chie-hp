@@ -73,14 +73,7 @@ export default function About() {
             </p>
           </div>
 
-          {/* Floating Card */}
-          <div className="mt-10 inline-flex items-center gap-4 rounded-2xl border border-[#E8DAFA] bg-white px-6 py-5 shadow-lg">
-            <div className="flex h-12 w-12 items-center justify-center rounded-full bg-[#F5EDFC] text-2xl">
-              💜
-            </div>
-
-            
-          </div>
+         
 
           {/* Decorative Dots */}
           <div className="mt-10 flex gap-2">
