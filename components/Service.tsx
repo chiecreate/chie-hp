@@ -101,14 +101,8 @@ export default function Service() {
         </div>
       </div>
 
-      {/* Bottom Decoration */}
-      <div className="pointer-events-none absolute bottom-0 left-0 h-24 w-full bg-gradient-to-t from-[#F8F2FF] to-transparent" />
-
-      {/* Accent Dots */}
-      <div className="absolute left-[8%] top-[18%] h-3 w-3 rounded-full bg-[#C7A8F2]" />
-      <div className="absolute right-[12%] top-[22%] h-2 w-2 rounded-full bg-[#D8C2F3]" />
-      <div className="absolute left-[16%] bottom-[14%] h-4 w-4 rounded-full bg-[#E8D8FA]" />
-
+      
+     
     </section>
   );
 }
